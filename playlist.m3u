@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Фильмы",Cinema
 http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?
